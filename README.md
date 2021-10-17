@@ -1,2 +1,3 @@
-# experimentacoes-git
+# experimentações Git
  Estudos, testes, experimentações em git
+
